@@ -1,4 +1,4 @@
-# Indoor Fire and Smoke Detection using Soft-Voting based Deep Ensemble Model
+## Indoor Fire and Smoke Detection using Soft-Voting based Deep Ensemble Model
 
 **Published in:**  
 2024 IEEE 13th International Conference on Communication Systems and Network Technologies (**CSNT 2024**)
