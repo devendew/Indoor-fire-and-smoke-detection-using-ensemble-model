@@ -27,5 +27,4 @@ The code will be made available soon.
 	note = {ISSN: 2473-5655},
 	keywords = {Communication systems, Deep Learning, Fire Detection, Smoke Detection, Indoor environment, Market research, Safety, Smart cameras, Smart cities, Soft-Voting based Ensemble, Transfer learning, Transfer Learning},
 	pages = {692--697},
-	file = {Full Text PDF:/home/devendra/snap/zotero-snap/common/Zotero/storage/R2H8KKJG/Dewangan and Gupta - 2024 - Indoor Fire and Smoke Detection Using Soft-Voting Based Deep Ensemble Model.pdf:application/pdf},
 }
